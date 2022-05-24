@@ -1,0 +1,9 @@
+{
+    "auth.not_account": "Don't have an account?",
+    "auth.sign-email-address": "Sign in with Email address",
+    "auth.sign_in": "Sign in",
+    "auth.Password": "Password",
+    "auth.email_username": "Email Address / Username",
+    "auth.remember_me": "Remember me",
+    "hi": "Hi, Welcome "
+}
